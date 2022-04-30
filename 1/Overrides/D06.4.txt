@@ -1,0 +1,14 @@
+Background Scale Min
+2
+
+Background Scale Max
+5
+
+Background Style
+3
+
+BackgroundScrollSpeed Min
+3.5
+
+BackgroundScrollSpeed Max
+3.5

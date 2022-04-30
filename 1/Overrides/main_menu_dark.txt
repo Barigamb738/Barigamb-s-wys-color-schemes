@@ -1,0 +1,2 @@
+Snail Glow
+RGB: 125, 0, 255

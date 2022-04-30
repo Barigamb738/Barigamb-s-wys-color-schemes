@@ -1,0 +1,177 @@
+Background Scale Min
+40
+
+Background Scale Max
+40
+
+Background Style
+1
+
+Background Parallax Min
+0.25
+
+Background Parallax Max
+0.5
+
+Background Scroll Speed
+0.1
+
+Wall Brightness When Lights Are Out
+0.7
+
+----------------------------------------
+
+Background
+RGB: 40, 0, 40
+
+Background Pattern
+RGB: 45, 10, 35
+
+Background In Darkness
+RGB: 10, 10, 20
+
+Background Pattern In Darkness
+RGB: 50, 0, 30
+
+Wall A
+RGB: 162, 80, 80
+
+Wall A Dark
+RGB: 30, 5, 15
+
+Wall B
+RGB: 255, 150, 200
+
+Wall B Dark
+RGB: 40, 10, 20
+
+Wall Outline A
+RGB: 255, 130, 255
+
+Wall Outline B
+RGB: 255, 200, 255
+
+AI A
+HSV: 250, 200, 200
+
+AI B
+HSV: 230, 200, 200
+
+AI In Background
+HSV: 215, 200, 120
+
+Enemies
+RGB: 255, 100, 175
+
+Enemy Warnings
+RGB: 230, 100, 100
+
+Corrupted Antenna
+RGB: 255, 50, 30
+RGB: 255, 70, 40
+
+Bubbles
+RGB: 50, 100, 255
+
+Dialog File Overlay
+RGB: 100, 0, 0
+
+Dialog File Overlay Alpha
+0.2
+
+Doors
+RGB: 255, 70, 40
+
+Exploration Points
+RGB: 0, 110, 255
+
+Dialog Files
+RGB: 0, 100, 230
+
+Unicorn
+HSV: 255, 200, 200
+
+TD Turret 1
+HSV: 152, 190, 200
+
+TD Turret 2
+HSV: 3, 210, 210
+
+TD Turret 3
+HSV: 85, 200, 200
+
+Disco Light Hue Spread
+30
+
+Disco Light Saturation
+100
+
+Disco Light Alpha
+0.15
+
+Disco Light Hue Offset
+220
+
+----------------------------------------
+
+Snail Glow
+RGB: 235, 140, 40
+
+Player Spotlight
+RGB: 5, 0, 15
+
+Player Spotlight Dark
+RGB: 10, 0, 5
+
+Snail Flare
+RGB: 200, 200, 0
+
+Snail Death
+RGB: 50, 50, 255
+
+Snail Outline
+RGB: 18, 20, 66
+
+Snail Body
+RGB: 60, 92, 153
+
+Snail Shell
+HSV: 160, 140, 150
+
+Snail Eye
+RGB: 183, 184, 229
+
+Snail Trail
+RGB: 255, 150, 150
+
+----------------------------------------
+
+Overlay Gradient Color Top
+RGB: 10, 0, 0
+
+Overlay Gradient Color Bot
+RGB: 10, 0, 20
+
+Overlay Vignette Color
+RGB: 0, 0, 75
+
+Overlay Vignette Alpha
+1
+
+Overlay Vignette Size
+0.2
+
+Post Processing Contrast
+2
+2
+2
+
+Post Processing Contrast Offset
+0.4
+0.4
+0.4
+
+----------------------------------------
+
+Hue Shift All Colors
+3

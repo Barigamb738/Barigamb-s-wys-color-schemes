@@ -1,0 +1,12 @@
+
+Background Style
+1
+
+BackgroundScrollSpeed Min
+2.5
+
+BackgroundScrollSpeed Max
+4
+
+Snail Glow
+RGB: 0, 100, 255

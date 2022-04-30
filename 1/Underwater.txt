@@ -1,0 +1,223 @@
+Background Scale Min
+8
+
+Background Scale Max
+10
+
+Background Style
+6
+
+Background Parallax Min
+0.4
+
+Background Parallax Max
+0.5
+
+Background Scroll Speed Min
+0.3
+
+Background Scroll Speed Max
+0.5
+
+Wall Brightness When Lights Are Out
+0.4
+
+----------------------------------------
+
+Background
+RGB: 0, 23, 25
+
+Background Pattern
+RGB: 0, 26, 26
+
+Background In Darkness
+RGB: 0, 0, 0
+
+Background Pattern In Darkness
+RGB: 0, 4, 5
+
+Wall A
+RGB: 102, 162, 126
+
+Wall A Dark
+RGB: 0, 10, 20
+
+Wall B
+RGB: 0, 144, 255
+
+Wall B Dark
+RGB: 0, 10, 2
+
+Wall Outline A
+RGB: 155, 255, 250
+
+Wall Outline B
+RGB: 155, 200, 255
+
+AI A
+RGB: 60, 75, 255
+
+AI B
+RGB: 60, 100, 255
+
+AI In Background
+RGB: 30, 80, 30
+
+Enemies
+HSV: 80, 110, 140
+
+Enemy Warnings
+HSV: 80, 150, 188
+
+Bubbles
+RGB: 100, 255, 255
+
+Underw Currents
+RGB: 30, 120, 110
+
+Dialog File Overlay
+RGB: 0, 40, 20
+
+Dialog File Overlay Alpha
+0.4
+
+Doors
+RGB: 125, 70, 165
+
+Exploration Points
+RGB: 90, 255, 60
+
+Dialog Files
+RGB: 90, 160, 40
+
+Unicorn
+HSV: 225, 170, 200
+
+Dallin
+HSV: 170, 180, 200
+
+Doors
+RGB: 80, 160, 125
+
+Corrupted Antenna
+RGB: 90, 255, 60
+
+Conveyor Belts
+RGB: 100, 255, 40
+
+Disco Light Hue Spread
+60
+
+Disco Light Saturation
+100
+
+Disco Light Alpha
+0.1
+
+Disco Light Hue Offset
+100
+
+TD Turret 1
+HSV: 152, 190, 200
+
+TD Turret 2
+HSV: 3, 210, 210
+
+TD Turret 3
+HSV: 85, 200, 200
+
+FinalBoss1A
+RGB: 0, 50, 25
+
+FinalBoss1B
+RGB: 0, 70, 35
+
+FinalBoss2
+RGB: 0, 40, 40
+
+FinalBoss3
+RGB: 50, 255, 0
+
+----------------------------------------
+
+Snail Glow
+RGB: 100, 200, 155
+
+Player Spotlight
+RGB: 0, 10, 10
+
+Player Spotlight Dark
+RGB: 0, 10, 20
+
+Snail Death
+HSV: 120, 150, 188
+
+Snail Outline
+RGB: 18, 20, 66
+
+Snail Body
+RGB: 60, 92, 153
+
+Snail Shell
+HSV: 160, 140, 150
+
+Snail Eye
+RGB: 183, 184, 229
+
+Snail Trail
+RGB: 0, 100, 255
+
+----------------------------------------
+
+Lvl Story Front
+RGB: 0, 80, 255
+
+Lvl Story Back
+RGB: 0, 100, 255
+
+Lvl Normal Front
+RGB: 0, 200, 100
+
+Lvl Normal Back
+RGB: 0, 200, 100
+
+Lvl Secret Front
+RGB: 50, 100, 100
+
+Lvl Secret Back
+RGB: 0, 200, 200
+
+Lvl Questionmark Indicator
+RGB: 140, 140, 140
+
+----------------------------------------
+
+Overlay Gradient Color Top
+RGB: 10, 10, 0
+
+Overlay Gradient Color Bot
+RGB: 20, 0, 20
+
+Overlay Vignette Color
+RGB: 0, 0, 0
+
+Overlay Vignette Alpha
+1.2
+
+Overlay Vignette Size
+0.4
+
+Post Processing Contrast
+2
+2
+2
+
+Post Processing Contrast Offset
+0.4
+0.35
+0.4
+
+----------------------------------------
+
+Hue Shift All Colors
+-10

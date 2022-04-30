@@ -1,0 +1,5 @@
+Wall Outline A
+HSV: 0, 50, 200
+
+Wall Outline B
+HSV: 0, 50, 0

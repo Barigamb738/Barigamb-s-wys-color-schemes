@@ -1,0 +1,199 @@
+Background Scale Min
+50
+
+Background Scale Max
+50
+
+Background Style
+0
+
+Background Parallax Min
+0.25
+
+Background Parallax Max
+0.5
+
+BackgroundScrollSpeed Min
+0.5
+
+BackgroundScrollSpeed Max
+0.5
+
+Wall Brightness When Lights Are Out
+0.5
+
+----------------------------------------
+
+Background
+RGB: 30, 0, 30
+
+Background Pattern
+RGB: 35, 10, 35
+
+Background In Darkness
+RGB: 10, 10, 20
+
+Background Pattern In Darkness
+RGB: 10, 0, 20
+
+Wall A
+RGB: 142, 129, 136
+
+Wall A Dark
+RGB: 10, 5, 15
+
+Wall B
+RGB: 255, 144, 255
+
+Wall B Dark
+RGB: 20, 0, 0
+
+Wall Outline A
+RGB: 255, 160, 255
+
+Wall Outline B
+RGB: 255, 200, 255
+
+AI A
+HSV: 225, 190, 255
+
+AI B
+HSV: 245, 190, 255
+
+AI In Background
+RGB: 130, 0, 110
+
+Enemies
+HSV: 255, 150, 188
+
+Enemy Warnings
+HSV: 30, 150, 255
+
+----------------------------------------
+
+Snail Glow
+RGB: 140, 75, 255
+
+Player Spotlight
+RGB: 10, 0, 20
+
+Player Spotlight Dark
+RGB: 10, 0, 20
+
+Snail Death
+RGB: 100, 100, 255
+
+Snail Outline
+RGB: 18, 20, 66
+
+Snail Body
+RGB: 60, 92, 153
+
+Snail Shell
+HSV: 160, 140, 150
+
+Snail Eye
+RGB: 183, 184, 229
+
+Snail Trail
+HSV: 150, 100, 255
+
+Snail Flare
+RGB: 140, 75, 255
+
+----------------------------------------
+
+Lvl Story Front
+RGB: 0, 80, 255
+
+Lvl Story Back
+RGB: 0, 100, 255
+
+Lvl Normal Front
+RGB: 255, 100, 0
+
+Lvl Normal Back
+RGB: 255, 100, 0
+
+Lvl Secret Front
+RGB: 150, 50, 220
+
+Lvl Secret Back
+RGB: 150, 50, 220
+
+Lvl Questionmark Indicator
+RGB: 100, 100, 100
+
+Lvl Questionmark Indicator Selected
+RGB: 100, 200, 0
+
+Conveyor Belts
+RGB: 160, 70, 100
+
+Dialog File Overlay
+RGB: 0, 0, 100
+
+Dialog File Overlay Alpha
+0.2
+
+Doors
+RGB: 125, 70, 165
+
+Exploration Points
+RGB: 0, 100, 230
+
+Dialog Files
+RGB: 0, 100, 230
+
+Light Ocean
+HSV: 190, 60, 255
+
+FinalBoss1A
+RGB: 50, 0, 25
+
+FinalBoss1B
+RGB: 70, 0, 35
+
+FinalBoss2
+RGB: 40, 0, 20
+
+FinalBoss3
+RGB: 255, 255, 0
+
+Unicorn
+HSV: 225, 200, 205
+
+----------------------------------------
+
+Overlay Gradient Color Top
+RGB: 10, 10, 0
+
+Overlay Gradient Color Bot
+RGB: 20, 0, 20
+
+Overlay Vignette Color
+RGB: 0, 0, 75
+
+Overlay Vignette Alpha
+1
+
+Overlay Vignette Size
+0.2
+
+Post Processing Contrast
+2
+2
+2
+
+Post Processing Contrast Offset
+0.4
+0.4
+0.4
+
+Bloom Alpha
+1
+
+----------------------------------------
+
+Hue Shift All Colors
+3

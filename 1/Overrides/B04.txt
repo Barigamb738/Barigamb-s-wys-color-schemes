@@ -1,0 +1,26 @@
+Background Scale Min
+3
+
+Background Scale Max
+5
+
+Background Style
+15
+
+BackgroundScrollSpeed Min
+0.5
+
+BackgroundScrollSpeed Max
+0.5
+
+Background Parallax Min
+0.5
+
+Background Parallax Max
+0.75
+
+Background
+RGB: 20, 0, 30
+
+Background Pattern
+RGB: 25, 10, 35

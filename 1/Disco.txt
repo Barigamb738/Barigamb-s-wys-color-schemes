@@ -1,0 +1,172 @@
+Background Scale Min
+50
+
+Background Scale Max
+50
+
+Background Style
+0
+
+Background Parallax Min
+0.25
+
+Background Parallax Max
+0.5
+
+BackgroundScrollSpeed Min
+0.5
+
+BackgroundScrollSpeed Max
+0.5
+
+Wall Brightness When Lights Are Out
+0.5
+
+----------------------------------------
+
+Disco Light Hue Spread
+5
+
+Disco Light Saturation
+100
+
+Disco Light Alpha
+0.1
+
+Disco Light Hue Offset
+20
+
+Background
+RGB: 20, 0, 20
+
+Background Pattern
+RGB: 25, 10, 25
+
+Background In Darkness
+RGB: 0, 0, 0
+
+Background Pattern In Darkness
+RGB: 0, 0, 0
+
+Wall A
+HSV: 0, 70, 180
+
+Wall A Dark
+HSV: 60, 100, 00
+
+Wall B
+HSV: 0, 150, 255
+
+Wall B Dark
+HSV: 60, 150, 10
+
+Wall Outline A
+HSV: 0, 50, 255
+
+Wall Outline B
+HSV: 0, 50, 255
+
+Conveyor Belts
+HSV: 0, 150, 230
+
+AI A
+HSV: 225, 150, 255
+
+AI B
+HSV: 245, 150, 255
+
+AI In Background
+HSV: 245, 190, 150
+
+Enemies
+HSV: 0, 120, 230
+
+Enemy Warnings
+HSV: 220, 100, 188
+
+Unicorn
+HSV: 225, 170, 215
+
+Dallin
+HSV: 160, 180, 255
+
+Doors
+RGB: 140, 255, 255
+
+----
+
+Dialog Files
+RGB: 70, 50, 160
+
+Dialog File Overlay
+RGB: 0, 0, 67
+
+Dialog File Overlay Alpha
+0.4
+
+Exploration Points
+RGB: 255, 255, 255
+
+----------------------------------------
+
+Snail Glow
+RGB: 140, 75, 255
+
+Player Spotlight
+RGB: 0, 0, 30
+
+Player Spotlight Dark
+RGB: 10, 0, 30
+
+Snail Flare
+RGB: 255, 255, 255
+
+Snail Death
+HSV: 0, 70, 255
+
+Snail Outline
+RGB: 18, 20, 66
+
+Snail Body
+RGB: 60, 92, 153
+
+Snail Shell
+HSV: 160, 140, 150
+
+Snail Eye
+RGB: 183, 184, 229
+
+Snail Trail
+HSV: 150, 100, 255
+
+----------------------------------------
+
+Overlay Gradient Color Top
+RGB: 0, 30, 0
+
+Overlay Gradient Color Bot
+RGB: 0, 0, 30
+
+Overlay Vignette Color
+RGB: 0, 0, 20
+
+Overlay Vignette Alpha
+1
+
+Overlay Vignette Size
+0.2
+
+Post Processing Contrast
+2
+2
+1.5
+
+Post Processing Contrast Offset
+0.5
+0.5
+0.5
+
+----------------------------------------
+
+Hue Shift All Colors
+3
